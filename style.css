@@ -1,0 +1,14 @@
+header {
+    margin-top:-25px;
+    color:mediumslateblue
+}
+section {
+    margin-top: -23px;
+    margin-left: 50px;
+}
+button {
+    background-color: rgb(157, 116, 196);
+    
+    border-width: 1px;
+    border-color: mediumpurple;
+}
